@@ -1,4 +1,4 @@
-package log
+package logapi
 
 //Logger abstracts the logger
 type Logger interface {
